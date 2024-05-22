@@ -1,6 +1,6 @@
 {
-  "name": "hdbscanjs",
-  "version": "1.0.12",
+  "name": "apr144-hdbscanjs",
+  "version": "1.0.12-052124",
   "author": "Jiawei Zhang",
   "main": "dist/index.js",
   "description": "Hierarchical DBSCAN Clustering in JavaScript",
